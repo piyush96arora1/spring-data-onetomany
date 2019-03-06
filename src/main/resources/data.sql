@@ -1,0 +1,1 @@
+create table repaird(repairid Integer, approverid varchar(255), approverdby varchar(255), Primary key(repairid));
